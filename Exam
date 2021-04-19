@@ -70,13 +70,13 @@ namespace Linked_List_Sort
                 MergeLists Head1 = new MergeLists();
                 MergeLists Head2 = new MergeLists();
 
-                // Node head1 = new Node(5);
+                
                 Head1.addToTheLast(new Node(4));
                 Head1.addToTheLast(new Node(8));
                 Head1.addToTheLast(new Node(15));
                 Head1.addToTheLast(new Node(19));
                
-                // Node head2 = new Node(2);
+                 
                 Head2.addToTheLast(new Node(7));
                 Head2.addToTheLast(new Node(9));
                 Head2.addToTheLast(new Node(10));
