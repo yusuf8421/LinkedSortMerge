@@ -64,8 +64,8 @@ namespace Linked_List_Sort
                 /* Let us create two sorted linked
                 lists to test the methods
                 Created lists:
-                    Head1: 5->10->15,
-                    Head2: 2->3->20
+                    Head1: 4, 8, 15, 19
+                    Head2: 7, 9, 10, 16
                 */
                 MergeLists Head1 = new MergeLists();
                 MergeLists Head2 = new MergeLists();
